@@ -23,3 +23,5 @@
   - matplotlib
   - scipy.io
   - python_speech_features
+
+* 可以把鳥種限縮到清大有的鳥類 到時候也比較好做 testing
